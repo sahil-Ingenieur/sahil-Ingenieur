@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sahil
 
-<!--
-**sahil-Ingenieur/sahil-Ingenieur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Front-End Engineer with experience in financial services, including work with RBC and TD Securities.
 
-Here are some ideas to get you started:
+I build secure, accessible, high-performance front ends for financial services, backed by design-system and e-commerce experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- React, TypeScript, JavaScript
+- Design systems, component libraries, Storybook
+- E-commerce, checkout, rewards, promotions
+- Accessibility, performance, testing
+
+## Currently
+- Building front-end projects focused on financial services and design systems
+- Exploring full-stack development with Java and Spring Boot
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/sahil-ingenieur
+- Portfolio: coming soon
